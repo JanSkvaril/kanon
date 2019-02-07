@@ -5,6 +5,7 @@
 
 ### Téma a motiv
 Varuje proti nacismu, nesmyslnost války
+
 Úpadek společnosti, bezmocnost jedince, diktátorstvý, válka, nacismus 
 ### Časoprostor
 Neurčené 
@@ -37,6 +38,7 @@ není
 * Poláček - bylo nás pět
 * Josef Čapek - Novinář
 * Kafka - proměna
+
 Zahraničí: Ztracená generace, otřesená válkou
 * Hemingway - Stařec a moře
 * Remarque - Na západní Frontě klid
