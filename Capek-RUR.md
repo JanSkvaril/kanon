@@ -34,7 +34,7 @@ neni
 * Další díla: R.U.R, Matka, Povídky z jedné a druhé kapsy, hovory s T. G. M.
 ### Literárně historický kontext
 Čeští autoři:
-* Poláček - bylo nás pět
+* Viktor Dyk - krysař
 * Josef Čapek - Novinář
 * Kafka - proměna
 

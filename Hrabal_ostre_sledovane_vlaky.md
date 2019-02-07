@@ -17,7 +17,6 @@ Próza, epika, novela
 ### Vypravěč/lyrický subjekt
 Je hlavní hrdina, ich, personální
 ### Postavy
-Postavy z knihy
 **Miloš Hrna** - Hlavní hrdina. Výpravčí, mladý, nezkušený citlivý. Po neuspěšné zkušenosti se ženou se podřeže. Nabývá na odvaze po úspěšné zkušenosti se starší ženou a spáchá atentát na ostře sledovaný vlak (vlak nacistické armády)
 
 **Hubička** - Donchuán, výpravší, mentor Miloše

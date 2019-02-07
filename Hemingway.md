@@ -1,7 +1,7 @@
-# Dílo
-## Autor
-## Období (např Česko 20/21)
-## drama/proza/poezie
+# Stařec a moře
+## Memingway
+## Amerika 20 1polovina
+## proza
 
 ### Téma a motiv
 čest v bitvě, boj člověka s přírodou, nezdolnost statečnost zkušenost

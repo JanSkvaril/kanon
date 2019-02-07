@@ -26,8 +26,6 @@ ich er
 
 Vševydoucí, personální (ich), neosobní
 ### Postavy
-Postavy z knihy
-
 **Postava** - co je zač
 ### Vyprávěcí způsoby
 * přímá řeč – vyjadřuje promluvu postavy, je oddělena uvozovkami
