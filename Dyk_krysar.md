@@ -17,8 +17,11 @@ proza, epika - novela
 er Vševydoucí
 ### Postavy
 **Krysař** - hlavní postava, vyrovnaný, tajemný samotář. Když mu vesničené nezaplatí, všechny je zabije, přežije jen Sepp jorgen a dítě
+
 **"Dlouhý" Kristián** - milenec agnes, neví co se děje s agnes a krysařem
+
 **Agnes** - Zamiluje se do krysaře. Otěhotní
+
 **Sepp Jorgen** - rybář, chabého intelektu, mimo společnost, jed 
 ### Vyprávěcí způsoby
 přímá řeč a nepřímá řeč

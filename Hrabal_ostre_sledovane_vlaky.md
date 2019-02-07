@@ -38,9 +38,12 @@ Hodně knih nemohlo vycházet (oficiální, exilová, semizdatová)
 * Škvorecký - Mirákl
 
 Zahraničí:
+* Steinbeck - O myších a lidech
 
 Beatnici
 * Kerouac - Na cestě
 
 Proti socialismu
 * George Orwell - Farma zvířat
+
+

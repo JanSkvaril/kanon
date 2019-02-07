@@ -17,8 +17,11 @@ proza, epika, bajka
 er Vševydoucí
 ### Postavy
 **Pan Jones** - člověk, zvířata jej vyženou
+
 **Prase Major** - Staré prase, vyborcuje zvířata, představuje lenina
+
 **Prase Kuliš** - Dobré názory, chytrý, čestný. Přetahuje se o moc s Napoleonem o moc. Později aznačen za nepřítele
+
 **Prase Napoleon** - Samozvaný vůdce, vyžene kuliše, lže, představitel Stalina
 ### Vyprávěcí způsoby
 přímá řeč, nevlastní přímá řeč, nepřímá řeč
