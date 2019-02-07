@@ -1,6 +1,6 @@
 # Bílá nemoc
 ## Karel Čapek
-## Česko 20/21
+## Česko 20 1.polovina
 ## Drama
 
 ### Téma a motiv
