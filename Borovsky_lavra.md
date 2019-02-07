@@ -18,6 +18,7 @@ poezie epika satira, pohádka
 er Vševydoucí
 ### Postavy
 **Král Lávra** - starý dobrý král, lidi ho mají rádi. Zabijel svoje holiče, protože viděli jeho oslí uši
+
 **Kukulín** - holič, kterého lávra ušetří, trápí ho najemství
 ### Vyprávěcí způsoby
 přímá řeč nevlastní přímá řeč
@@ -32,7 +33,7 @@ Nepravidelné rými
 ### Literárně historický kontext
 Čeští autoři:
 
-Obrozenci čestí
+Obrozenci
 * Karel Hynek Mácha - Máj
 * Božena Němcová - babička
 * Tyl 
