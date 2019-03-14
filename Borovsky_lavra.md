@@ -29,7 +29,7 @@ Nepravidelné rými
 ### Kontext autorovy tvorby
 * Satirik
 * Jeho pohřeb protivládní demonstrací
-* Další díla:
+* Další díla: Tyrolské elegie, obrazy z rus, epigramy
 ### Literárně historický kontext
 Čeští autoři:
 

@@ -33,7 +33,7 @@ Dialogy a monology
 * Používá jasnou pointu a paradoxy
 * Realismus
 * Šachysta, politik
-* Další díla
+* Další díla Milá sedmi loupežníků (poezie), Zmoudření Dona Quijota (drama)
 ### Literárně historický kontext
 Čeští autoři:
 * Kafka - proměna
