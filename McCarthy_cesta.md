@@ -36,5 +36,5 @@ er
 * Radek John - Memento
 Zahraničí:
 * Rowlingová - Harry potter
-* Jo Nesbo - Lovci Hlav
+* Jo Nesbo - Lovci Hlav, sněhulák
 * Tolkien - Pán prstenů

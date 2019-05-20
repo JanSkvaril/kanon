@@ -37,7 +37,7 @@ přímá řeč, nevlastní přímá řeč, nepřímá řeč
 Čeští autoři:
 * Karel Čapek - R.U.R
 * Ota pavel - Smrt krásných srnců
-* Hrabal - Smrt krástných srnců
+* Hrabal - ostře sledovaný vlaky
 
 Zahraničí:
 * Ernest Hemingway - stařec a moře

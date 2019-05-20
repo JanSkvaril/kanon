@@ -43,6 +43,7 @@ Poslední věta er
 * čapek - rur
 * kafka - proměna
 * poláček - bylo nás 5
+* hašek osudy dobrého vojáka švejka
 
 Zahraničí:
 * Hemingway - stařec a moře¨
