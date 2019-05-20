@@ -18,10 +18,15 @@ drama, komedie
 není 
 ### Postavy
 **Harpagon** - otec
+
 **Kleant** - syn
+
 **Eliška** - dcera
+
 **Mariana** - má si ji vzít Harpagon, chce ji kleant
+
 **Valér** - komorník, miluje elišku
+
 ### Vyprávěcí způsoby
 dialogy
 

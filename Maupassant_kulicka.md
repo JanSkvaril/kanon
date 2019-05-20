@@ -19,6 +19,7 @@ er Vševydoucí
 ### Postavy
 **Kulička** - baculatá, přesto krásná prostitutka, cítí se být vlastenkou, vyzývavá a sebejistá
 přesto, že je dosti objemná. Má svůj žebříček hodnot a nedá se jen tak ovlivnit. Je přátelská, milá a vlastenka, které je ochotná se pro dobrou věc obětovat. 
+
 **Ostaní cestující** - vysoce postavení lidé, myslí si, že jsou něco víc než kulička. Nechají si od ní ale rádi pomoct
 
 ### Vyprávěcí způsoby

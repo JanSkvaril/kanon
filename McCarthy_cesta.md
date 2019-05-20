@@ -18,6 +18,7 @@ Proza, epica, postapo scifi román
 er Vševydoucí
 ### Postavy
 **Otec** - Bezejmenný muž, chytrý, otec kluka, snaží se ho ochránít před fyzickými i duševními hrozbami. Zažil svět před jeho koncem. 
+
 **Syn** - Také bezejména. "Nositel ohně" - naděje. Nezažil svět před událostmi. 
 ### Vyprávěcí způsoby
 Přímá řeč, avšak bez **úvozovek**

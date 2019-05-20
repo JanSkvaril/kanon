@@ -17,10 +17,15 @@ proza epika román
 ich - robby
 ### Postavy
 **Karel** - je to auto
+
 **Robert Lohkamp** - alkoholik, veterán, hlavní postava a vypravěč. Nemá moc mínění o budoucnosti
+
 **Gottfied Lenz** - "poslední romantik", veselá postava, na konci postřelen
+
 **Otto Koster** - dobrý řidič, rozumný, tichý
+
 **Patricie Hollmannová** - milá, zamilují se do sebe s robbym, těžce nemocná, na konci umře
+
 ### Vyprávěcí způsoby
 
 ### Typy promluv

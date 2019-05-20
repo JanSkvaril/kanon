@@ -18,10 +18,15 @@ ich forma - Pavel
 Poslední věta er
 ### Postavy
 **Pavel Baumer** - Vypravěč, nejdříve naivní student, změní ho válka
+
 **spolužáci** - postupně umřou
+
 **Katzinsky** - nejlepší kamarád, hlava skupiny, učí je přežít
+
 **Himmelstoss** - cítí se důležitý, šinuje nováčky, v není schopen být v boji
+
 **Knatorek** - učitel co je naverbuje do války
+
 ### Vyprávěcí způsoby
 
 ### Typy promluv

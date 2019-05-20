@@ -20,15 +20,25 @@ není
 Vševydoucí, personální (ich), neosobní
 ### Postavy
 **Lear** - král
+
 **Kent** - pobočník
+
 **Goneril** - jedna dcera
+
 **Regan** - druhá dcera
+
 **Cordelie** - třetí ta co nedostala nic
+
 **Alban** - dobrej manžel
+
 **Cornwall** - špatnej manžel
+
 **Gloster** - Otec
+
 **Edgar** - dobrej syn
+
 **Edmund** - Špatnej syn
+
 ### Vyprávěcí způsoby
 dialog, sem tam monology
 

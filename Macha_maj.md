@@ -17,9 +17,13 @@ poezie - lyricko-epická báseň
 er, lyrický mluvčí je Mácha, v posledním zpěvu se oběví
 ### Postavy
 **Vilém** - lupič, vyhozen z domu otcem, zabije otce
+
 **Jarmila** - Vilémova milá, mladá, skočí ze skáli, když zjistí, že vilém má být popraven
+
 **Hynek** - Na konci jako poutník
+
 **Vilémův otec** - tvrdohlavý, 
+
 ### Vyprávěcí způsoby
 
 ### Typy promluv
